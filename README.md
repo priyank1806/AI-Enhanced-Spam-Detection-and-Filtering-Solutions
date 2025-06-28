@@ -73,4 +73,4 @@ LEGITIMATE MAIL/MSG:
 Thank you for exploring this project. Your time and interest are truly appreciated. 🙏✨
 
 For Any Queries: Priyankar Chowdhury | priyankar18aarav@gmail.com | 9818911751 
-& ANiket SIngh | hianiket2003here@gmail.com | 8178207040
+& Aniket SIngh | hianiket2003here@gmail.com | 8178207040
