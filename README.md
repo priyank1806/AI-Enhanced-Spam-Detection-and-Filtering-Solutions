@@ -1,7 +1,7 @@
 **AI-Enhanced-Spam-Detection-and-Filtering-Solutions**
 
 **📌 Project Overview**
-This project implements an AI-powered spam detection and filtering solution using Natural Language Processing (NLP) techniques and Machine Learning algorithms. It classifies text messages into spam and ham (non-spam) categories efficiently, supporting future integration with email and messaging platforms to enhance security and user experience. This is an AI-powered spam detection project made by Priyankar for advanced NLP deployment.
+This project implements an AI-powered spam detection and filtering solution using Natural Language Processing (NLP) techniques and Machine Learning algorithms. It classifies text messages into spam and ham (non-spam) categories efficiently, supporting future integration with email and messaging platforms to enhance security and user experience. This is an AI-powered spam detection project made by Priyankar and Aniket for advanced NLP deployment.
 
 **🚀 Features**
 1. Real-time spam classification
@@ -71,4 +71,6 @@ LEGITIMATE MAIL/MSG:
 ![image](https://github.com/user-attachments/assets/3858848e-99e0-4d93-86c6-30f03db15b9f)
 
 Thank you for exploring this project. Your time and interest are truly appreciated. 🙏✨
-For Any Queries: Priyankar Chowdhury | priyankar18aarav@gmail.com | 9818911751
+
+For Any Queries: Priyankar Chowdhury | priyankar18aarav@gmail.com | 9818911751 
+& ANiket SIngh | hianiket2003here@gmail.com | 8178207040
